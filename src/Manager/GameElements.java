@@ -10,6 +10,6 @@ public enum GameElements {
         * BULLET: 子弹相关元素
         * DIE: 死亡后的元素放入DIE中
     */
-    MAPS, PLAY, ENEMY, BOSS, BULLET,DIE,DROP,c;
+    MAPS, PLAY, ENEMY, BOSS, BULLET,DIE,DROP;
     
 }
