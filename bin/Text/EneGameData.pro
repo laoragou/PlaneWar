@@ -1,0 +1,9 @@
+left=image/tank/play2/player2_left.png
+right=image/tank/play2/player2_right.png
+up=image/tank/play2/player2_up.png
+down=image/tank/play2/player2_down.png
+explode=image/boom/boom.png
+leftV=image/tank/play2Invisible/player2_left.png
+rightV=image/tank/play2Invisible/player2_right.png
+upV=image/tank/play2Invisible/player2_up.png
+downV=image/tank/play2Invisible/player2_down.png
