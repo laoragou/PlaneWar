@@ -11,5 +11,5 @@ public enum GameElements {
         * DIE: 死亡后的元素放入DIE中
     */
     MAPS, PLAY, ENEMY, BOSS, BULLET,DIE,DROP;
-    //1
+    
 }
